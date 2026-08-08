@@ -19,7 +19,7 @@
 <ul>
   <li>Microsoft Azure (VM hosting for domain controller and client)</li> 
   <li>Remote Desktop Protocol</li> 
-  <li>Windows Server 2022 (WSUS role installed on the existing domain controller)</li> 
+  <li>Windows Server 2025 (WSUS role installed on the existing domain controller)</li> 
   <li>Windows 10 (domain-joined client receiving updates)</li> 
   <li>Active Directory Domain Services (existing domain structure from the configure-ad lab)</li> 
   <li>Windows Server Update Services</li> 
